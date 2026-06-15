@@ -1,1 +1,1 @@
-- 👋 Hi, I’m kevin being able to study this beautiful concept of Cyber Security is very benefical for me!
+- 👋 Hi, I’m kevin im building ci cd pipeline in golang cus i wanan get into devops tbh so yueah
