@@ -1,1 +1,1 @@
-- 👋 Hi, I’m kevin im building ci cd pipeline in golang cus i wanan get into devops tbh so yueah
+- 👋 Hi, I’m kevin im building ci cd pipeline in golang cus i wanan get into devsecops tbh so yueah im currently working in said role and just hoping to do sum cold stuff fr fr #babymoney
