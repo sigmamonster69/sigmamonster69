@@ -1,1 +1,1 @@
-- 👋 Hi, I’m kevin Devsecops @ GTRI studying Cyber Security Engineering @ UAH  #babymoney
+- 👋 Hi, I’m kevin Devops @ GTRI studying Cyber Security Engineering @ UAH  #babymoney
